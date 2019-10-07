@@ -1,2 +1,2 @@
-#IntelliJ Idea Exercise files
+#IntelliJIdeaExercisefiles
 This repository contains the Exercise files from the book javanotes5
